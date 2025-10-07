@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bg-color{
+  background-color: #D5E1EF;
+  height: 1000px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.qr-card{
+  box-shadow: rgba(0, 0, 0, 0.0477);
+  border-radius: 20px;
+  background-color: white;
+  width: 320px;
+  height: 490px;
+
+}
